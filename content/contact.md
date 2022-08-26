@@ -4,6 +4,8 @@ title = "Contact"
 
 Feel free to email me at payne.n(at)northeastern.edu, or reach out via any of the links below.
 
+*If you are emailing to schedule a tutoring session, please use [nipaynetutoring@gmail.com](mailto:nipaynetutoring@gmail.com).  Otherwise there may be a delay in a response.*
+
 ---
 
 ## Links

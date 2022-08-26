@@ -54,6 +54,10 @@ googleAnalytics = ""  # add your tracking id
     name = "Blog"
     url = "/posts"
     weight = 3
+  [[menu.main]]
+    name = "Tutoring"
+    url = "/tutoring"
+    weight = 6
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
