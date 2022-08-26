@@ -2,7 +2,7 @@
 title = "Contact"
 +++
 
-Feel free to email me at [payne.n@northeastern.edu](mailto:payne.n@northeastern.edu), or reach out via any of the links below.
+Feel free to email me at payne.n(at)northeastern.edu, or reach out via any of the links below.
 
 ---
 

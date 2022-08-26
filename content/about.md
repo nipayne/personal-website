@@ -51,7 +51,7 @@ I was a mentor for <a href="https://sites.google.com/nhsau57.org/salemrobotics">
 ## Other fun facts
 <ul>
 <li>
-I play the tenor saxophone, and have since junior high school.  In high school, I did marching band, jazz ensemble & concert band.  In college, I played in the Northeastern Pep Band (all five years) & Concert Band (until 2019).
+I play the tenor saxophone, and have since junior high school.  In high school, I participated in marching band, jazz ensemble & concert band.  In college, I played in the Northeastern Pep Band (until 2022) & Concert Band (until 2019).
 </li>
 <li>
 I played chess competitively until I realized I didn't have patience for many-hour games (around the end of junior high).  I switched to teaching chess, and started an after-school chess program for elementary school students while I was in high school.  By the time I graduated, I had taught over 400 students, having run programs at five local schools and coordinated several other volunteers.  I still play recreationally, and am always willing to start a game.
